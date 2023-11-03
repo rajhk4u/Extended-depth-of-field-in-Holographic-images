@@ -1,4 +1,4 @@
-# Extended-depth-of-field-in-Holographic-images
+# Extended depth-of-field in Holographic image reconstruction using Deep Learning
 – Convolutional neural network (CNN)-based approach that simultaneously performs autofocusing and phase recovery
 to significantly extend the depth-of-field and increase the reconstruction speed in holographic imaging.
 – Data set creation- pair of randomly defocused holograms of polystyrene particles or micro planktons and their
